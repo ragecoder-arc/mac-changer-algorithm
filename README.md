@@ -153,12 +153,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 Built with 🐍 Python for ethical hacking & networking education.
